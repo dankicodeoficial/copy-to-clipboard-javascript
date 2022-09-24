@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Public Sans', sans-serif;
+  text-decoration: none;
+}
+
+html, body {
+  background: #1A1821;
+}
+
+#alert {
+  width: 100%;
+  text-align: center;
+  background-color: #110F17;
+  color: #E1E1E6;
+  display: none;
+  padding: 10px;
+}
+
+.text-box {
+  height: 100vh;
+  background: rgb(244, 242, 242);
+  max-width: 650px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.text-box .copy-area{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text-box .top-area {
+  
+  margin: 20px 0;
+}
+
+.text-box .top-area h1 {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+.text-box .top-area .copy-btn {
+  background: #E1E1E6;
+  color: #110F17;
+  font-size: 1.5em;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 2px solid #926EDD;
+}
+
+.text-box .top-area .copy-btn:hover {
+  color: #926EDD;
+}
+
+.text-box textarea {
+  width: 100%;
+  min-height: 250px;
+  font-size: 1em;
+  padding: 10px;
+  outline: none;
+  resize: none;
+  background-color: #f5f5f6;
+  border-radius: 5px;
+}
+
+h1 {
+  display: flex;
+  color: #333;
+}
+h2{
+  color: #333;
+}
+h1 > b{
+  vertical-align: middle;
+  line-height: 1.4em;
+}
+b{
+  color: #7855C3;
+}
+

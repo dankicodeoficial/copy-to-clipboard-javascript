@@ -1,0 +1,14 @@
+🚀 Função para copiar para a área de transferência (ctrl + c) com Javascript.
+. 
+.
+👉🏻 Ref: https://developer.mozilla.org/en-US/docs/Web/API/Clipboard
+. 
+.
+⭐️ Projeto Completo: 
+. 
+. 
+.
+#dankicode #programadores #estruturadedados #algoritmos #faculdadeti #analisedesistemas #computador #tecnologia #tecnologiadainformacao #cienciadacomputacao #suporteti #sistemasdeinformacao #profissionaldeti
+
+Confira os nossos cursos em: https://cursos.dankicode.com/
+
